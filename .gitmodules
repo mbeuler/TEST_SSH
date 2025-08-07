@@ -1,3 +1,6 @@
 [submodule "Drivers_new/ZULS_TEST"]
 	path = Drivers_new/ZULS_TEST
 	url = git@github.com:mbeuler/ZULS_TEST.git
+[submodule "Drivers_new/STM32H743_TEST"]
+	path = Drivers_new/STM32H743_TEST
+	url = git@github.com:mbeuler/STM32H743_TEST.git
